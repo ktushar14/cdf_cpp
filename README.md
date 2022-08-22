@@ -9,6 +9,8 @@
 
 Note: The SMPL dependency is quite small. Removing it as a dependency is ongoing.
 
+# Instructions: (more detailed instructions and examples coming soon)
+
 ## Building
 
 Build as a regular CMake project:
