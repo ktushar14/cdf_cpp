@@ -42,4 +42,4 @@ This generates the file `patterns_10_10.txt` in the `patterns/` directory.
 ```
 
 More details on build and run instructions as well as information on generating pattern files in progress.
-In the meantime, I am available at tushark@cmu.edu for urgent questions.
+In the meantime, if you are using this for research, I am available at kusnur.tushar@gmail.com for urgent questions.
