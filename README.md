@@ -7,8 +7,6 @@
 	- Go to smpl/smpl/ and build as a CMake project (see instructions at github.com/aurone/smpl)
 	- Install system-wide (`make install`) to run cdf_cpp as is, because it includes SMPL with abosolute paths)
 
-Note: The SMPL dependency is quite small. Removing it as a dependency is ongoing.
-
 # Instructions: (more detailed instructions and examples coming soon)
 
 ## Building
