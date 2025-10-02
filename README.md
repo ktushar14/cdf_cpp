@@ -41,5 +41,5 @@ This generates the file `patterns_10_10.txt` in the `patterns/` directory.
 ./persistent ../maps/test/frontier_test_1.map ../patterns/patterns_30_30.txt 2.0
 ```
 
-More details on build and run instructions as well as information on generating pattern files in progress.
-In the meantime, if you are using this for research, I am available at kusnur.tushar@gmail.com for urgent questions.
+## Contact
+If you are using this repo ion your research, you may reach me at kusnur.tushar@gmail.com for urgent questions.
