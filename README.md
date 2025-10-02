@@ -1,4 +1,6 @@
-# cdf_cpp
+# Complete, Decomposition-Free Coverage Path Planning
+
+This repository contains code for the paper [Complete, Decomposition-Free Coverage Path Planning](https://www.ri.cmu.edu/app/uploads/2022/12/Complete_Decomposition-Free_Coverage_Path_Planning.pdf).
 
 ## Dependencies
 
@@ -7,11 +9,9 @@
 	- Go to smpl/smpl/ and build as a CMake project (see instructions at github.com/aurone/smpl)
 	- Install system-wide (`make install`) to run cdf_cpp as is, because it includes SMPL with abosolute paths)
 
-# Instructions: (more detailed instructions and examples coming soon)
-
 ## Building
 
-Build as a regular CMake project:
+Build as a regular CMake project (Release mode set by default):
 
 ```bash
 mkdir build
@@ -19,7 +19,6 @@ cd build
 cmake ..
 make [-j$(nproc)]
 ```
-(builds in Release mode by default)
 
 ## Running
 
